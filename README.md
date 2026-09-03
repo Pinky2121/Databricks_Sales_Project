@@ -1,6 +1,6 @@
 # Databricks_Sales_Project
 
-## TOPICS
+## TOPICS ##
 This project demonstrates:
 - Databricks
 - Pyspark
